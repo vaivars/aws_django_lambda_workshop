@@ -2,7 +2,8 @@
 ___
 ## Setting up django
 ### 1 - Clone this repository
-### 2 - CD to 01_django_base directory - run `pipenv install django==2.0.0` and `pipenv shell` - then run `python manage.py runserver` - you should have a simple django 'hello world' app running
+### 2 - Rename 01_django_base to some generic project name - e.g. "workshop"
+### 3 - CD to 01_django_base directory - run `pipenv install django==2.0.0` and `pipenv shell` - then run `python manage.py runserver` - you should have a simple django 'hello world' app running
 
 ___
 ## Installing Zappa and deploying dev
