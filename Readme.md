@@ -1,4 +1,4 @@
-
+### Link to presentation - https://prezi.com/view/OkKhz7w4EWxOmpbWaOsr/
 ___
 ## Setting up django
 ### 1 - Clone this repository
